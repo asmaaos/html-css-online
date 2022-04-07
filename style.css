@@ -1,0 +1,73 @@
+body{
+    background-image: url("imge.png");
+    background-repeat: no-repeat;
+    background-size: 100%  100%;
+    font-family: "Trirong", serif;
+}
+.block1{
+    position: relative;
+    margin-top: 30px;
+    margin-left: 30px;
+
+}
+#profile{
+    position: absolute;
+    top: 0px;
+    right: 500px;
+    width: 500px;
+    height: 00px;
+ 
+}
+table, th, td {
+    border: 1px solid;
+    width:1200px;
+    
+    text-align: center;
+}
+#div1,th,td {
+    text-align: left;
+
+
+}
+h3{
+    font-family: serif;
+}
+
+button{
+    background-color: #ba3448; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+    margin-top: 30px;
+    margin-left: 500px;
+    margin-bottom: 100px;
+
+}
+
+.p #MA {
+    width: 450px;
+    height: 130px;
+    margin-left: 400px;
+}
+form {
+    margin-top: 200px;
+    margin-left: 400px;
+    width: 350px;
+    height: 130px;
+}
+#name #email{
+    margin-top: 200px;
+    margin-left: 500px;
+    width: 750px;
+    height: 530px;
+}
+
+
+
+
+    
